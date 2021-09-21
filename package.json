@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-image",
+  "version": "1.0.0",
+  "description": "nodejs image",
+  "author": "Shafiiq <oketshafiiq@yahoo.fr>",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
